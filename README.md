@@ -1,12 +1,6 @@
-# Clean+Simple Jekyll Theme
+# Rui Patrick Xian site
 
 The Clean+Simple is an easy to modify, tumblr style Jekyll theme.
 
-### Demo -> (<a href="http://nathanrooy.github.io">here</a>)
-
-
-
-<figure>
-<img src="screenshot-crop.jpg">
-</figure>
+### Demo -> (<a href="http://realpolitix.github.io">here</a>)
 
