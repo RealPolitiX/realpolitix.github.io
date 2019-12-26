@@ -3,13 +3,5 @@ layout: post
 title: About
 ---
 <p>
-Maecenas tempus ullamcorper ante, sed eleifend purus mollis a. Sed ut molestie eros. Etiam arcu mi, consequat id ligula nec, faucibus dictum tortor. Ut tempus felis non commodo luctus. Nunc ac ullamcorper leo. Suspendisse et lorem eu leo iaculis vehicula nec vel mauris. Nullam eget porta ante.
-</p>
-
-<p>
-Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent efficitur posuere nunc, non dapibus lectus placerat eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a tincidunt velit. Nam ac ultricies metus. Morbi non erat ac nunc rutrum congue. Aliquam ultrices viverra felis quis pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-</p>
-
-<p>
-Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
+My name is Rui Patrick Xian, often addressed by the name Patrick. I currently work as a postdoc at the Department of Neurobiology of Northwestern University. Previously, I was employed in Germany by the Max Planck Society and have studied in China, where I also grew up, Canada, and Germany. My backgrounds are in physics, chemistry and computing. An alternative site of mine while this one is being constructed is [here](https://sites.google.com/view/rpatrickxian). I can also be found on [GitHub](https://github.com/RealPolitiX), [Twitter](https://twitter.com/stadtkind_rpx), [Google Scholar](https://scholar.google.com/citations?user=jbmy4JAAAAAJ&hl=en), and [LinkedIn](https://www.linkedin.com/in/rui-patrick-xian-04996a115/).
 </p>
