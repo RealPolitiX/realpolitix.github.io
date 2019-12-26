@@ -5,7 +5,7 @@ title: Dimensionality reduction, categorized
 tags: [video, unsupervised learning, python]
 date-string: DECEMBER 26, 2019
 ---
-The Canadian mathematician Leland McInnes ([@leland_mcinnes](https://twitter.com/leland_mcinnes?lang=en)), who's known for his work on designing and popularizing the use of UMAP [^1] for dimensionality reduction of single cell data, gave an insightful rundown of the key approaches of dimensionality reduction--finding matrix factorization or neighbor graphs--illustrated by the various algorithms which often feature mesmerizing names. In the talk, he mentioned the nice booklet by Udell et al [^2] on low-rank modelling of high-dimensional data, which is also very worth reading.
+The Canadian mathematician Leland McInnes ([@leland_mcinnes](https://twitter.com/leland_mcinnes?lang=en)), who's known for his work on designing and popularizing the use of UMAP [^1] for dimensionality reduction of single cell data, gave an insightful rundown of the key approaches of dimensionality reduction---finding matrix factorization or neighbor graphs---illustrated by the various algorithms which often feature mesmerizing names. In the talk, he mentioned the nice booklet by Udell et al [^2] on low-rank modelling of high-dimensional data, which is also very worth reading.
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9iol3Lk6kyU" frameborder="0" allowfullscreen></iframe>
 </center>
