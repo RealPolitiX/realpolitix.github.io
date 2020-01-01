@@ -9,7 +9,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-feed
+#  - jekyll-feed
   
 sass:
   sass_dir: _sass
@@ -54,5 +54,3 @@ exclude:
   - package.json
   - spec
   - tmp
-
-theme: jekyll-theme-minimal
